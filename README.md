@@ -1,3 +1,9 @@
+# Ruby on Rails Tutorial: First application
+
+This is the first application for Jake Firman. It will remain as simply the tutorial app for a while.
+
+That's a fact, Jack.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
